@@ -1,4 +1,3 @@
-
 # Created by https://www.gitignore.io/api/c,vim,linux
 # Edit at https://www.gitignore.io/?templates=c,vim,linux
 
@@ -55,6 +54,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+*.ko
 
 ### Linux ###
 *~
